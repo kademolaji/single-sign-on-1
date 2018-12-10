@@ -1,2 +1,2 @@
-# single-sign-on
-🔐 Authentication and Authorization for Distributed systems, Microservices and Web APIs.
+# Single Sign On (SSO)
+Authentication and Authorization for Distributed systems, Microservices and Web APIs. (work in progress)
